@@ -47,5 +47,8 @@
     "singleQuote": true,
     "endOfLine": "lf",
     "printWidth": 120
-  }
+  },
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  },
 }
